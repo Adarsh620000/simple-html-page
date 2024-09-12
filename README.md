@@ -1,5 +1,6 @@
 # simple-html-page
-Its a simple page of html/css. this project is given by Main flow
+Its a simple page of html/css.
+This project is given by Main flow.
 Creating this project in different pages by using vs code..
 IN html
 html.index
